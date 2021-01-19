@@ -1,5 +1,5 @@
 # CPP-Journey
-A journey to the edge of CPP world, starting line, understanding variables, finish line, ¯\\_(ツ)_/¯
+A journey to the edge of CPP world, starting line, understanding variables, finish line, ¯\\__(ツ)_\_/¯
 
 ## 1. Quick Start
 
